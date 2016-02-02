@@ -26,7 +26,7 @@ Example :
 
 
 
-![Picture2](hucaselogo.pdf)
+![Picture2](HUCASE.PNG)
 
 
 ```R
