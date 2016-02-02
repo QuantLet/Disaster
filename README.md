@@ -25,8 +25,8 @@ Example :
 ```
 
 
-![Picture1](financialdisaster1.jpg)
-![Picture2](wisehucaselogo.png)
+
+![Picture2](hucaselogo.pdf)
 
 
 ```R
