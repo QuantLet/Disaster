@@ -26,7 +26,7 @@ Example :
 
 
 
-![Picture2](HUCASE.PNG)
+![Picture2](financialdisaster1)
 
 
 ```R
