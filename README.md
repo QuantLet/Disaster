@@ -26,7 +26,7 @@ Example :
 
 
 
-![Picture2](financialdisaster1)
+![Picture2](financialdisaster1.jpg)
 
 
 ```R
