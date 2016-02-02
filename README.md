@@ -22,19 +22,10 @@ Submitted :
 Example :
 - prediction
 - Coefficient varying
+
 ```
 
-
-
-![Picture2](financialdisaster1.jpg)
-
-
-```R
-
-
-
-
-
+```Matlab
 
 close all
 
