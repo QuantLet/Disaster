@@ -133,7 +133,7 @@ end
 
 %------------------------------------------------------
 %  process
-function [yfit_final, chosen_order, FS] = _weighted(data)
+
 
 initial_order = 4;
 initial_constraint = 0;
