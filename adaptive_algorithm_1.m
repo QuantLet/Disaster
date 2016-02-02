@@ -63,7 +63,6 @@ y_normalized = normalize(ysub_final);
 BGS_data = [data(:,1) y_normalized];
 datastore(BGS_data, filename);                % saves to txt file
 
-[yfit_final_weighted, chosen_order, FS] = _weighted(data);
 ysub_final_weighted = data(:,2) - yfit_final_weighted;
 ysub_final_weighted(ysub_final_weighted < 0) = 0;
 y_normalized_weighted = normalize(ysub_final_weighted);
