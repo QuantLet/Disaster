@@ -3,7 +3,7 @@ Name of QuantLet : adaptive_algorithm_1
 
 Published in : 'Unpublished; Theoretical description of how to forecast the disaster of stock market'
 
-Description : 'Applys the adaptive algorithm on the model proposed by Barrow (2006) 
+Description : 'Applies the adaptive algorithm on the model proposed by Barrow (2006) 
               to capture the disaster of stock market and forecast stock price.'
 
 Keywords : 'regression, classification, stock-price, simulation, forecast'
